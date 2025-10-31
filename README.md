@@ -29,6 +29,15 @@ This project also focuses on robust exception handling and comprehensive unit te
 
 ✅ Write 5 Unit Tests per class, combine them into a test suite, and validate system reliability.
 
+## 👨‍💻 Task Distribution for every group member
+
+**Team 7**
+1. Nawshad Fahim MDT 7216629 (CustomException.java, ExceptionHandler.java, AllTestsSuite.java, ExceptionHandlerTest.java)
+
+2. Ibrahim Khalil MDT 7213232 (MultipleExceptionHandler.java, MultipleExceptionHandlerTest.java)
+
+3. Raju Naidu MDT 7213668 (RethrowExceptionHandler.java, ResourceManagerTest.java, RethrowExceptionHandlerTest.java)
+
 ## Some ScreenShots of Our Test Result:
 <img width="1420" height="112" alt="HA2" src="https://github.com/user-attachments/assets/fe192d59-f4c7-48fc-ad74-df3b0591a321" />
 

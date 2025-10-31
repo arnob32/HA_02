@@ -19,13 +19,13 @@ This project also focuses on robust exception handling and comprehensive unit te
 
 ✅ Apply four exception-handling techniques:
 
-  🧩  Handling Multiple Exceptions
+    🧩  Handling Multiple Exceptions
 
-  🔁 Re-throwing Exceptions
+    🔁 Re-throwing Exceptions
 
-  ⚙️ Resource Management
+    ⚙️ Resource Management
 
-  ⛓️ Chaining Exceptions
+    ⛓️ Chaining Exceptions
 
 ✅ Write 5 Unit Tests per class, combine them into a test suite, and validate system reliability.
 

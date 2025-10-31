@@ -1,0 +1,2 @@
+2025-10-27 23:48:44 | ID: VEH123 | Charging started
+2025-10-27 23:48:48 | ID: VEH123 | Charging started

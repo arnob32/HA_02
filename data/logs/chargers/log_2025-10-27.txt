@@ -1,0 +1,2 @@
+2025-10-27 23:48:44 | ID: CHG01 | Charger ready
+2025-10-27 23:48:48 | ID: CHG01 | Charger ready

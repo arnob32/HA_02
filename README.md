@@ -1,6 +1,6 @@
 ## 🧳✈️ Airport Smart Luggage Management System
 
-# An intelligent system to track, manage, and secure passenger luggage throughout the airport journey—from check-in to claim.
+### An intelligent system to track, manage, and secure passenger luggage throughout the airport journey—from check-in to claim.
 This project demonstrates advanced Exception Handling and Unit Testing concepts in Java within a real-world use case.
 
 ## 🧠 Project Overview

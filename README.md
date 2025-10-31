@@ -1,6 +1,35 @@
-## With this task we are going to discuss about the task class of our project
+## 🧳✈️ Airport Smart Luggage Management System
 
-## Some Screen Shot test Result:
+# An intelligent system to track, manage, and secure passenger luggage throughout the airport journey—from check-in to claim.
+This project demonstrates advanced Exception Handling and Unit Testing concepts in Java within a real-world use case.
+
+## 🧠 Project Overview
+
+The Airport Smart Luggage Management System is designed to make luggage handling faster, safer, and smarter at airports.
+It uses modern technologies to monitor every bag’s journey — from check-in to loading, flight transfer, and baggage claim — while handling unexpected system or data errors gracefully.
+
+This project also focuses on robust exception handling and comprehensive unit testing as part of a Java Capstone assignment.
+
+## 🎯 Main Objectives
+✅ Ensure accurate luggage tracking using RFID and database records.
+
+✅ Prevent luggage loss by maintaining real-time status and alerts.
+
+✅ Handle system errors gracefully (missing files, invalid data, device issues).
+
+✅ Apply four exception-handling techniques:
+
+  🧩  Handling Multiple Exceptions
+
+  🔁 Re-throwing Exceptions
+
+  ⚙️ Resource Management
+
+  ⛓️ Chaining Exceptions
+
+✅ Write 5 Unit Tests per class, combine them into a test suite, and validate system reliability.
+
+## Some ScreenShots of Our Test Result:
 <img width="1420" height="112" alt="HA2" src="https://github.com/user-attachments/assets/fe192d59-f4c7-48fc-ad74-df3b0591a321" />
 
 <img width="1431" height="109" alt="ha3" src="https://github.com/user-attachments/assets/64fa6eec-43c8-488c-9ea3-29a82151c121" />

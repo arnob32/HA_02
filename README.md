@@ -42,7 +42,7 @@ This project also focuses on robust exception handling and comprehensive unit te
 <img width="1418" height="104" alt="ha2" src="https://github.com/user-attachments/assets/2bb1b402-124e-43bd-b3ea-bc56cd2c17ba" />
 
 
-## Screen Record Vidoe Link:
+## Recorded Screencast Vidoe Link:
 https://drive.google.com/file/d/1uVfEwzM1ZJl4w9msMET49aEyP671i_cA/view?usp=sharing
 
 ## 👨‍💻 Author

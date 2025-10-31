@@ -15,3 +15,14 @@
 
 ## Screen Record Vidoe Link:
 https://drive.google.com/file/d/1uVfEwzM1ZJl4w9msMET49aEyP671i_cA/view?usp=sharing
+
+## 👨‍💻 Author
+
+**Team 7**
+1. Md Shariful Islam MDT-7213424
+
+2. Nawshad Fahim MDT 7216629
+
+3. Ibrahim Khalil MDT 7213232
+
+4. Raju Naidu MDT 7213668
